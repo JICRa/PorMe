@@ -15,7 +15,7 @@ File `pore_analyzer_20220606.py` contain a python code that does the work.
 
 ## How this work?
 
-![PorMe workflow](docs/figures/workflow_overview.png "Workflow overview")
+![PorMe workflow](docs/figures/workflow_overview.PNG "Workflow overview")
 
 Future work includes to properly set up the enviroment. For now, the following information is under development:
 
