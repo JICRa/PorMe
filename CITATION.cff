@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: PorMe – Image-based pore/porosity analysis for 3D-printed scaffolds
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Contreras Raggio
+    given-names: José I.
+  - family-names: Pardo
+    given-names: Miguel
+date-released: 2025-08-20
+version: 1.0.0
+repository-code: https://github.com/JICRa/PorMe
